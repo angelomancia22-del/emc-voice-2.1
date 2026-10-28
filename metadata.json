@@ -1,0 +1,6 @@
+{
+  "name": "Eastern Mindoro College - Student Concern & Complaint Management System",
+  "description": "A web-based centralized student grievance, concern, and complaint tracking platform for Eastern Mindoro College, Inc. featuring online submission, real-time ticket tracking, administrative resolution workflows, institutional analytics, and system acceptability evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
